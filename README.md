@@ -1,16 +1,23 @@
-## Hi there 👋
+### 👋 Hi, I'm Paresh
 
-<!--
-**paresh21191/paresh21191** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full Stack Developer** with experience in building scalable web applications and automating infrastructure.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+
+- **Backend**: Laravel, PHP, CodeIgniter, REST APIs, Payment Gateway Integration  
+- **Frontend**: jQuery, AJAX  
+- **Database**: MySQL  
+- **CMS**: WordPress  
+- **DevOps & Tools**: Linux, CI/CD, Terraform, Ansible, Jenkins, GitHub Actions  
+- **Containers & Orchestration**: Docker, Kubernetes (K8s)  
+- **Cloud Platforms**: AWS, Google Cloud, Azure  
+- **Monitoring & Logging**: Prometheus, Grafana, Splunk  
+- **Security & Compliance**: Trivy, SonarQube  
+- **Automation & Build Tools**: Maven, Selenium  
+- **Version Control**: Git  
+
+---
+
+🌱 Always learning and contributing to open-source.
