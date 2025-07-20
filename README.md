@@ -6,10 +6,9 @@
 
 ### 🔧 Tech Stack
 
-- **Backend**: Laravel, PHP, CodeIgniter, REST APIs, Payment Gateway Integration  
+- **Backend**: Laravel, PHP, REST APIs, Payment Gateway Integration  
 - **Frontend**: jQuery, AJAX  
-- **Database**: MySQL  
-- **CMS**: WordPress  
+- **Database**: MySQL,Oracle  
 - **DevOps & Tools**: Linux, CI/CD, Terraform, Ansible, Jenkins, GitHub Actions  
 - **Containers & Orchestration**: Docker, Kubernetes (K8s)  
 - **Cloud Platforms**: AWS, Google Cloud, Azure  
